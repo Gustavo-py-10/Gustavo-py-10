@@ -1,4 +1,4 @@
-👋 Hi, I'm Gustavo-py-10!
+👋 Hi, I'm Gustavo Antonio!
 
 👀 I'm interested in exploring new technologies, improving my skills in software development, and deepening my knowledge of AI.
 
